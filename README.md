@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calling+Code&duration=3000&pause=1000&color=0B6B65&background=21177700&width=435&separator=%3C&lines=Hi+There!%F0%9F%91%8B;+I'm+Huy+Hoang!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calling+Code&size=40&duration=3000&pause=1000&color=0B6B65&background=21177700&width=435&separator=%3C&lines=Hi+There!%F0%9F%91%8B;+I'm+Huy+Hoang!)](https://git.io/typing-svg)
 
 I'm **Huy Hoang**, an undergraduate passionate about **AI and Data Science**.  
 My focus areas include **AI model development, backend architecture, data analysis, and machine learning**.  
