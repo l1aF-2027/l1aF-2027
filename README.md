@@ -26,8 +26,8 @@ I enjoy **reading novels, playing FPS games, exploring new technologies, and sta
 
 ### 📂 Bizness
 
-- :keyboard: [**My Resume/CV**](https://l1af.vercel.app/)  
-- :email: [**My Email**](mailto:ha.huy.hoang.tk@gmail.com)  
+ :keyboard: [**My Resume/CV**](https://l1af.vercel.app/)  
+ :email: [**My Email**](mailto:ha.huy.hoang.tk@gmail.com)  
 
 ---
 
