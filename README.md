@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent.fdad3-3.fna.fbcdn.net/v/t39.30808-6/341612791_3432698130339321_6267271345637092744_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-rVW-hIXqtUQ7kNvgFaJx0Z&_nc_oc=Adi6p0gbErTxbNhqHZe8BMZ7bqYGmJyFv7LN49TjX3yXBlwPbH4r3kKPqumBjIXsVuYtbTDD-TLFwPytgIRcXdU4&_nc_zt=23&_nc_ht=scontent.fdad3-3.fna&_nc_gid=AgjFsuOLrIcKtEu8AII6Vt4&oh=00_AYACGSqtRLz3dyLcb9C_27K_Nu9KtovQVt_TMO2jYB5SoA&oe=67B3995D"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/25b6c4dd-1f45-4f62-b392-8c3dabc029bc"  />
 
 ###
 
@@ -39,8 +39,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/l1aF-2027/l1aF-2027/output/snake.svg" alt="Snake animation" />
-
-###
