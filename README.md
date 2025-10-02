@@ -11,7 +11,6 @@ I enjoy **reading novels, playing FPS games, exploring new technologies, and sta
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/hhhoang) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ha.huy.hoang.tk@gmail.com)
 
----
 
 ### 🚀 Top Technologies
 
@@ -22,21 +21,18 @@ I enjoy **reading novels, playing FPS games, exploring new technologies, and sta
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#) 
 
----
 
 ### 📂 Bizness
 
  :keyboard: [**My Resume/CV**](https://l1af-2027.github.io/CV-Website/)  
  :email: [**My Email**](mailto:ha.huy.hoang.tk@gmail.com)  
 
----
 
 ### ⭐ My Stats
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=l1aF-2027&show_icons=true&theme=transparent"/>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1aF-2027&layout=compact&&langs_count=8"/>
 
----
 
 ### 👁️‍🗨️ Profile Views Counter
 
